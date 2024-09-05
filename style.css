@@ -1,0 +1,60 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgba(255, 0, 0, 0.403);
+}
+
+header {
+    background-image: linear-gradient(to right,#CC0000, #FF4D4D, #FF0000 );
+    font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+    color: black;
+    padding: 10px;
+    text-align: center;
+}
+
+h2 {
+    background-image: linear-gradient(to right, #FF4D4D, #FF0000, transparent );
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 2em;
+}
+
+
+
+main {
+    margin: 10px 0px;
+    text-align: justify;
+    text-indent: 20px;
+    font-size: 1.2em;
+    background-color: white;
+    min-width: 320px;
+    max-width: 1000px;
+    margin: auto;
+    
+
+
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+}
+
+picture {
+    margin: auto;
+    display: block;
+    text-align: center;
+
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    margin-top: 20px;
+    color: aqua;
+    width: 300px;
+    margin: auto;
+}
